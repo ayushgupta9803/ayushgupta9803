@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ayushgupta9803
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Aayush Gupta
+- 👀 I’m interested in Full Stack Web Development
+- 🌱 I’m currently learning Advanced Data Structures & Algorithms.
+- 💞️ I’m looking for a Software Engineer Role or Software Engineer intern
+- 📫 How to reach me (Mail me @ayushgupta9803@gmail.com) :)
 
 <!---
 ayushgupta9803/ayushgupta9803 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
