@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aayush Gupta
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Advanced Data Structures & Algorithms.
-- 💞️ I’m looking for a Software Engineer Role or Software Engineer intern
+- 👀 I’m interested in Backend technologies (Spring , Hibernates etc . )
+- 🌱 I’m currently java developer at TCS with 1 year of experience.
+- 💞️ I’m looking for a Software Engineer Role where i can maximize my potential and work with excellent mindset .
 - 📫 How to reach me (Mail me @ayushgupta9803@gmail.com) :)
 
 <!---
