@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aayush Gupta
 - 👀 I’m interested in Backend technologies ( Java , SpringBoot , Microservices etc . )
-- 🌱 I’m currently Backend developer at TCS with almost 3 year of experience.
+- 🌱 I’m currently Senior Software Engineer at Accenture with 3+ year of experience.
 - 💞️ I’m looking for a Senior Software Engineer Role where i can maximize my potential and work with excellent mindset .
 - 📫 How to reach me (Mail me @ayushgupta9803@gmail.com) :)
 
