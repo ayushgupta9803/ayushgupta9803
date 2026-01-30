@@ -2,7 +2,7 @@
 
 💻 Senior Software Engineer @ Accenture | Backend Engineer (Java + Spring Boot)  
 
-🔧 Tech Stack: Java | Spring Boot | Microservices | DATABASES | REST APIs | Docker | AWS | GenAI  
+🔧 Tech Stack: Java | Spring Boot | Microservices | SQL/PostGre | REST APIs | Docker | AWS | GenAI  
 
 📌 About Me  
 • 3+ years building scalable backend systems and production-ready microservices  
